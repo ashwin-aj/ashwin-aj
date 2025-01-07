@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ashwin-jiwane
 - 👀 I’m interested in Coding and stuff around that.
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning  react-native, laravel, WordPress
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...@ashwin.jiwane09@gmail.com
 
